@@ -76,7 +76,7 @@ Learning Resources for Web and Software Dev
 - [Egghead](https://egghead.io/)
 - [Thinkster](https://thinkster.io/)
 - [Scotch](https://scotch.io/)
-- 
+
 ## Frameworks
 
 #### Front End
