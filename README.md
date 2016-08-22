@@ -97,11 +97,9 @@ Learning Resources for Web and Software Dev
 ## Tools and Resources
 
 - [Web Development Flow](https://coggle.it/diagram/Vz9LvW8byvN0I38x)
- ----------
 - [Bootstrap Themes](https://startbootstrap.com/template-categories/all/)
 - [Bootstrap Snippets](http://www.bootbundle.com/tool)
 - [Responsive Dashboard Layouts for Boostrap](http://keen.github.io/dashboards/)
- ----------
 - [Black Glasses](http://blackglasses.me/)
 - [FrebbiesBug](http://freebiesbug.com/)
 - [Free AI Illustrations](https://app.illustrio.com/product/icon)
@@ -109,24 +107,18 @@ Learning Resources for Web and Software Dev
 - [Free Icons: EpicPXLS](http://www.epicpxls.com/)
 - [Oxygena Freebies](http://www.oxygenna.com/category/freebies)
 - [Stock Photos: Unsplash](https://unsplash.com/)
- ----------
 - [Speed Test](https://tools.pingdom.com/)
 - [DNS Check](http://dnscheck.pingdom.com/)
- ----------
 - [Vainilla JS](http://www.vanillalist.com/)
- ----------
 - [Html Encoder/Decoder](http://www.web2generators.com/html-based-tools/online-html-entities-encoder-and-decoder)
 - [Special Html Chars](http://www.tedmontgomery.com/tutorial/htmlchrc.html)
- ----------
 - [Moqups](https://app.moqups.com/)
 - [MockupPlus](www.mockplus.com)
 - [Wireframe: Marvel](https://marvelapp.com/canvas/737477/)
- ----------
 - [Colicious: Random color generator](http://colicious.ga/)
 - [Coolors: Pallete Generator](https://coolors.co/)
 - [Palleton: Color Scheme Designer](http://paletton.com/#uid=13v0u0kjmQzaLZ1f-VImmI-oxwV)
 - [Google Fonts](https://fonts.google.com)
- ----------
 - [Best Webs Awards](http://www.awwwards.com/websites/web-interactive/)
 - [Dribble: Design Inspiration](https://dribbble.com/)
 - [Codepen: Front End Inspiration](http://codepen.io/)
