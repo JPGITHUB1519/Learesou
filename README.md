@@ -62,7 +62,7 @@ Learning Resources for Web and Software Dev
 
 - [El libro de Django](http://librosweb.es/libro/django_1_0/)
 
-## MOCK and Tutorials
+## MOOCS and Tutorials
 
 **Spanish**
 
